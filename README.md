@@ -1,0 +1,1 @@
+At first this project was assigned to us to help us better understand object oriented programming and time properties in c++. We created a moving landscape with block objects akin to looking at mountains while in a car. After completing the assignment we edited the code and turned it into the old mobile game of flappy bird.
